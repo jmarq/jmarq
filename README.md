@@ -1,15 +1,16 @@
-### Hi there 👋
 ```
- _____________________________
-< sudo apt-get install cowsay >
- -----------------------------
+ _________________________________________
+/ Life is short. Therefore, I shall be a  \
+| crusader in the fight against ignorance |
+\ and fear, beginning with myself         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
 ```
+(`sudo apt-get install cowsay`)
 
 <!--
 **jmarq/jmarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
